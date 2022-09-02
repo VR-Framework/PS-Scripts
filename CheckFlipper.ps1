@@ -1,4 +1,6 @@
-﻿$val = 0
+# Script does not work... yet.
+
+$val = 0
 while ($val -ne 3) 
 {
     Start-Sleep -Seconds 43200
